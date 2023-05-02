@@ -1,3 +1,5 @@
+1. 管道
+2. 数字电路的状态机模型
 this is a wonderful program of seven seg
 
 usage:

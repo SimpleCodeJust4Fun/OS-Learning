@@ -1,4 +1,5 @@
 # chick and rabbit problem using RISC-V simulation cpu
+用自己模拟的RISC-V架构的CPU求解鸡兔同笼问题，程序指令放在ji-tu.txt里，cpu是无情的取指令/译码/执行指令的机器。
 
 cpu fetch instruction and execute in while loop
 
